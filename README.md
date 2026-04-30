@@ -56,7 +56,7 @@ Running the script generates:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Clone or download the repository
 
