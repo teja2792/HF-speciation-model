@@ -52,6 +52,7 @@ Running the script generates:
 
 - `hf_speciation_plot.png`  
   → Plot of HF and F⁻ percentage vs pH
+<img width="1920" height="1440" alt="hf_speciation_plot" src="https://github.com/user-attachments/assets/b933f35b-bc43-4583-b0ff-98da9071dd9e" />
 
 ---
 
