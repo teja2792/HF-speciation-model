@@ -4,6 +4,11 @@
 
 This project calculates and visualizes the equilibrium distribution of hydrofluoric acid (HF) and fluoride ion (F⁻) as a function of pH.
 
+Core dependencies:
+
+numpy
+pandas
+matplotlib
 ---
 
 ## 📌 Objective
